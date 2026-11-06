@@ -1,0 +1,42 @@
+[
+  {
+    "order_id": 1001,
+    "date": "2026-11-06 19:02",
+    "customer": "5555555",
+    "phone": "+998 507805447",
+    "address": "Anavi yerdagi dala oldida",
+    "note": "kesin keyin aytaman",
+    "items": [
+      {
+        "id": 8,
+        "name": "Lavanda guldastasi",
+        "price": 60000,
+        "qty": 3,
+        "total": 180000
+      }
+    ],
+    "total": 180000,
+    "status": "Qabul qilindi"
+  },
+  {
+    "order_id": 1002,
+    "date": "2026-11-06 19:50",
+    "customer": "ssss",
+    "phone": "+998 2341631631631",
+    "address": "sasasas",
+    "note": "sasasasas",
+    "items": [
+      {
+        "id": 1,
+        "name": "Qizil Atirgul (Roza)",
+        "price": 25000,
+        "qty": 1,
+        "total": 25000
+      }
+    ],
+    "total": 25000,
+    "payment_type": "Karta (Payme)",
+    "card_tx": "2131313131313131135",
+    "status": "To'landi (Karta)"
+  }
+]

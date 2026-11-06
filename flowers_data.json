@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Qizil Atirgul (Roza)",
+    "category": "Atirgullar",
+    "price": 25000,
+    "stock": 44,
+    "desc": "Klassik qizil atirgullar, golland navi. Sevgi va hurmat ramzi.",
+    "icon": "🌹"
+  },
+  {
+    "id": 2,
+    "name": "Oq Atirgul",
+    "category": "Atirgullar",
+    "price": 22000,
+    "stock": 30,
+    "desc": "Beg'ubor va mayin oq atirgullar. Har qanday bayram uchun ajoyib sovg'a.",
+    "icon": "🤍"
+  },
+  {
+    "id": 3,
+    "name": "Golland Lolasi (Mix)",
+    "category": "Lolalar",
+    "price": 18000,
+    "stock": 60,
+    "desc": "Bahoriy kayfiyat bag'ishlovchi rang-barang Golland lolalari.",
+    "icon": "🌷"
+  },
+  {
+    "id": 4,
+    "name": "Sariq Lola",
+    "category": "Lolalar",
+    "price": 17000,
+    "stock": 25,
+    "desc": "Yorqin quyoshli lolalar, yangilanish va quvonch timsoli.",
+    "icon": "💛"
+  },
+  {
+    "id": 5,
+    "name": "Qirolicha Orkideyasi",
+    "category": "Orkideyalar",
+    "price": 180000,
+    "stock": 12,
+    "desc": "Tuvakdagi nafis orkideya, uzoq vaqt gullab turadi.",
+    "icon": "🪴"
+  },
+  {
+    "id": 6,
+    "name": "Pushti Pion guldastasi",
+    "category": "Guldastalar",
+    "price": 150000,
+    "stock": 15,
+    "desc": "Hashamatli pushti pionlardan tayyorlangan maxsus kompozitsiya.",
+    "icon": "💐"
+  },
+  {
+    "id": 7,
+    "name": "Xrizantema (Mix)",
+    "category": "Guldastalar",
+    "price": 75000,
+    "stock": 20,
+    "desc": "Uzoq saqlanuvchi, rangli xrizantemalar to'plami.",
+    "icon": "🌸"
+  },
+  {
+    "id": 8,
+    "name": "Lavanda guldastasi",
+    "category": "Guldastalar",
+    "price": 60000,
+    "stock": 15,
+    "desc": "Xushbo'y tog' lavandasi, tinchlantiruvchi iforga ega.",
+    "icon": "🪻"
+  }
+]
